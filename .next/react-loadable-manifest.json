@@ -1,0 +1,24 @@
+{
+  "../components/HomePage.jsx -> bootstrap/dist/css/bootstrap.min.css": {
+    "id": "../components/HomePage.jsx -> bootstrap/dist/css/bootstrap.min.css",
+    "files": []
+  },
+  "../components/Layout.jsx -> bootstrap/dist/css/bootstrap.min.css": {
+    "id": "../components/Layout.jsx -> bootstrap/dist/css/bootstrap.min.css",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_css_bootstrap_min_css.js"
+    ]
+  },
+  "../components/Navbar.jsx -> bootstrap/dist/css/bootstrap.min.css": {
+    "id": "../components/Navbar.jsx -> bootstrap/dist/css/bootstrap.min.css",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_css_bootstrap_min_css.js"
+    ]
+  },
+  "about.jsx -> bootstrap/dist/css/bootstrap.min.css": {
+    "id": "about.jsx -> bootstrap/dist/css/bootstrap.min.css",
+    "files": [
+      "static/chunks/node_modules_bootstrap_dist_css_bootstrap_min_css.js"
+    ]
+  }
+}
